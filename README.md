@@ -35,4 +35,4 @@ Secondary R code, using rtweets package, proved better:
   -  @ and # symbols
   -  http and https references
 
-Tweets were also retrieved using Python code
+Tweets were also retrieved using Python code as well
